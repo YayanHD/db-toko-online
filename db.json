@@ -1,0 +1,518 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "nama": "Kemeja"
+      },
+      {
+        "id": 2,
+        "nama": "Dress"
+      },
+      {
+        "id": 3,
+        "nama": "Celana"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "nama": "Relaxed Fit Twill Shirt",
+        "harga": 459900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE Shirt in soft, checked cotton twill with a turn-down collar, classic front and yoke at the back. Long sleeves with buttoned cuffs and a sleeve placket with a link button, open chest pockets and a rounded hem. Relaxed Fit – a straight fit with good room for movement creating a comfortable, relaxed silhouette.",
+        "category": {
+          "id": 1,
+          "nama": "Kemeja"
+        }
+      },
+      {
+        "id": 2,
+        "nama": "Slim Fit Easy-iron Shirt",
+        "harga": 379900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "Shirt in woven fabric with an easy-iron finish. Turn-down collar, classic front and darts and a yoke at the back. Long sleeves with adjustable buttoning at the cuffs and a sleeve placket with a link button. Gently rounded hem. Slim Fit – a fit with narrow shoulders and a tapered waist for a fitted silhouette.",
+        "category": {
+          "id": 1,
+          "nama": "Kemeja"
+        }
+      },
+      {
+        "id": 3,
+        "nama": "Twill Overshirt",
+        "harga": 599900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "Overshirt in twill with a collar, buttons down the front and a yoke at the back. Flap chest pockets with a button, and long sleeves with buttoned cuffs.",
+        "category": {
+          "id": 1,
+          "nama": "Kemeja"
+        }
+      },
+      {
+        "id": 4,
+        "nama": "Slim Fit Easy-iron Shirt",
+        "harga": 379900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "Shirt in woven fabric with an easy-iron finish. Turn-down collar, classic front and darts and darts and a yoke at the back. Long sleeves with adjustable buttoning at the cuffs and a sleeve placket with a link button. Gently rounded hem. Slim Fit – a fit with narrow shoulders and a tapered waist for a fitted silhouette.",
+        "category": {
+          "id": 1,
+          "nama": "Kemeja"
+        }
+      },
+      {
+        "id": 5,
+        "nama": "Oxford Shirt Muscle Fit",
+        "harga": 429900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "Shirt in stretch Oxford cotton with a button-down collar, classic front and a yoke and darts at the back. Long sleeves with adjustable buttoning at the cuffs, and a rounded hem. Muscle Fit – a fit designed to showcase the body’s physique with narrow shoulders and tapered sleeves to create a flattering silhouette.",
+        "category": {
+          "id": 1,
+          "nama": "Kemeja"
+        }
+      },
+      {
+        "id": 6,
+        "nama": "Regular Fit Resort Shirt",
+        "harga": 459900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE Short-sleeved shirt in softly draping, patterned viscose with a resort collar, French front and yoke at the back. Open chest pocket, and a straight-cut hem with a slit in each side.",
+        "category": {
+          "id": 1,
+          "nama": "Kemeja"
+        }
+      },
+      {
+        "id": 7,
+        "nama": "Relaxed Fit Checked Flannel Shirt",
+        "harga": 429900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE Shirt in soft cotton flannel with a turn-down collar, classic front and yoke at the back. Long sleeves with buttoned cuffs and a sleeve placket with a link button, an open chest pocket, and a rounded hem. Relaxed Fit – a straight fit with good room for movement creating a comfortable, relaxed silhouette.",
+        "category": {
+          "id": 1,
+          "nama": "Kemeja"
+        }
+      },
+      {
+        "id": 8,
+        "nama": "Relaxed Fit Patterned Resort Shirt",
+        "harga": 379900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE Short-sleeved shirt in a patterned viscose weave with a resort collar, French front and a yoke at the back. Dropped shoulders, a chest pocket and straight-cut hem. Relaxed Fit – a straight fit with good room for movement creating a comfortable, relaxed silhouette.",
+        "category": {
+          "id": 1,
+          "nama": "Kemeja"
+        }
+      },
+      {
+        "id": 9,
+        "nama": "Relaxed Fit Patterned Resort Shirt",
+        "harga": 379900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "OCONSCIOUS CHOICE Short-sleeved shirt in a patterned viscose weave with a resort collar, French front and a yoke at the back. Dropped shoulders, a chest pocket and straight-cut hem. Relaxed Fit – a straight fit with good room for movement creating a comfortable, relaxed silhouette.",
+        "category": {
+          "id": 1,
+          "nama": "Kemeja"
+        }
+      },
+      {
+        "id": 10,
+        "nama": "Regular Fit Resort Shirt",
+        "harga": 429900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "Short-sleeved shirt in a lyocell and cotton weave with a resort collar, French front and chest pocket. Yoke with darts at the back, and a straight-cut hem with a slit in each side. Regular Fit – a classic fit with good room for movement and a gently tapered waist to create a comfortable, tailored silhouette.",
+        "category": {
+          "id": 1,
+          "nama": "Kemeja"
+        }
+      },
+      {
+        "id": 11,
+        "nama": "Regular Fit Printed Sesama Street Shirt",
+        "harga": 379900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS Short-sleeved shirt in a printed viscose weave with a resort collar, French front and yoke at the back. Open chest pocket and a straight-cut hem. Regular Fit – a classic fit with good room for movement and a gently tapered waist to create a comfortable.",
+        "category": {
+          "id": 1,
+          "nama": "Kemeja"
+        }
+      },
+      {
+        "id": 12,
+        "nama": "Regular Fit Linen-blend Shirt",
+        "harga": 599900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE Regular-fit shirt in a linen and cotton weave with a turn-down collar, French front and a yoke at the back. Open chest pocket and long sleeves with adjustable buttoning at the cuffs and a sleeve placket with a link button. Rounded hem.",
+        "category": {
+          "id": 1,
+          "nama": "Kemeja"
+        }
+      },
+      {
+        "id": 13,
+        "nama": "Airy Dress",
+        "harga": 399900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "Short dress in an airy weave made from a viscose blend. Wide, gathered neckline, 3/4-length sleeves with narrow elastication at the cuffs, and a gathered seam at the hem for added width. Unlined.",
+        "category": {
+          "id": 2,
+          "nama": "Dress"
+        }
+      },
+      {
+        "id": 14,
+        "nama": "Long Chiffon Dress",
+        "harga": 549900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE Long, gently flared dress in airy chiffon with a small, frilled collar, a V-shaped opening at the front with long ties and a gathered yoke front and back for a gentle draped effect. Long, wide, cuffed sleeves, and a gathered seam at the knees for added width. Sleeveless jersey underdress.",
+        "category": {
+          "id": 2,
+          "nama": "Dress"
+        }
+      },
+      {
+        "id": 15,
+        "nama": "Jacquard-weave Dress",
+        "harga": 699900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS Calf-length, straight-cut dress in jacquard-weave viscose with a slight sheen. Collar, covered buttons down the front, dropped shoulders and long sleeves. Pleat at the back for added width. Unlined.",
+        "category": {
+          "id": 2,
+          "nama": "Dress"
+        }
+      },
+      {
+        "id": 16,
+        "nama": "Shirt Dress",
+        "harga": 399900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "Calf-length dress in woven fabric with a collar and buttons down the front. Relaxed fit with dropped shoulders, long sleeves, wide cuffs with slits, and a rounded hem. Unlined.",
+        "category": {
+          "id": 2,
+          "nama": "Dress"
+        }
+      },
+      {
+        "id": 17,
+        "nama": "Wrap Dress",
+        "harga": 429900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE Short-sleeved, knee-length dress in a softly draping viscose weave with a V-neck and wrapover front with narrow ties at the side. Unlined.",
+        "category": {
+          "id": 2,
+          "nama": "Dress"
+        }
+      },
+      {
+        "id": 18,
+        "nama": "Cotton Dress",
+        "harga": 259900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "Short, flared dress in an airy cotton weave with adjustable spaghetti shoulder straps and two elasticated seams with a small frill trim at the top.",
+        "category": {
+          "id": 2,
+          "nama": "Dress"
+        }
+      },
+      {
+        "id": 19,
+        "nama": "Tie-belt Satin Dress",
+        "harga": 699900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "SCONSCIOUS CHOICE Calf-length dress in softly draping satin with a deep V-neck and a wrapover at the top of the front. Concealed zip in one side, 3/4-length, cuffed puff sleeves, and a seam with a wide tie belt at the waist. Unlined.",
+        "category": {
+          "id": 2,
+          "nama": "Dress"
+        }
+      },
+      {
+        "id": 20,
+        "nama": "Ribbed Dress",
+        "harga": 429900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS Fitted, calf-length dress in a fine rib knit containing some wool. Round neck, wide shoulder straps and a slit at the front. Unlined.",
+        "category": {
+          "id": 2,
+          "nama": "Dress"
+        }
+      },
+      {
+        "id": 21,
+        "nama": "Balloon-sleeved Satin Dress",
+        "harga": 479900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "Short dress in softly draped satin with a V-neck, tie belt around the waist and long balloon sleeves with buttoned cuffs. Unlined.",
+        "category": {
+          "id": 2,
+          "nama": "Dress"
+        }
+      },
+      {
+        "id": 22,
+        "nama": "Straight High Jeans",
+        "harga": 549900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE 5-pocket jeans in washed, sturdy cotton denim with hard-worn details. High waist, a button fly and straight legs to create the perfect 90s vibe.",
+        "category": {
+          "id": 3,
+          "nama": "Celana"
+        }
+      },
+      {
+        "id": 23,
+        "nama": "90s Baggy High Waist Jeans",
+        "harga": 399900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "Denim jeans in a loose fit with a high waist, zip fly and button, low crotch and wide, extra-long legs. Diagonal side pockets, back pockets and flap leg pockets.",
+        "category": {
+          "id": 3,
+          "nama": "Celana"
+        }
+      },
+      {
+        "id": 24,
+        "nama": "Skinny High Jeans",
+        "harga": 429900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "Jeans in slightly stretchy denim with a high waist, zip fly and button, fake front pockets, a real coin pocket, real back pockets and skinny legs.",
+        "category": {
+          "id": 3,
+          "nama": "Celana"
+        }
+      },
+      {
+        "id": 25,
+        "nama": "Regular Jeans",
+        "harga": 399900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE 5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button and straight legs with good room for movement over the thighs and knees.",
+        "category": {
+          "id": 3,
+          "nama": "Celana"
+        }
+      },
+      {
+        "id": 26,
+        "nama": "Hybrid Regular Denim Joggers",
+        "harga": 599900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "5-pocket joggers in stretch denim made from a cotton blend. Regular waist with elastication at the back, a concealed drawstring and a zip fly with a button. Straight legs with good room for movement over the thighs and knees. Made using Lycra® Hybrid Technology for exceptional softness and comfort without compromising the authentic denim look.",
+        "category": {
+          "id": 3,
+          "nama": "Celana"
+        }
+      },
+      {
+        "id": 25,
+        "nama": "Regular Jeans",
+        "harga": 399900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE 5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button and straight legs with good room for movement over the thighs and knees.",
+        "category": {
+          "id": 3,
+          "nama": "Celana"
+        }
+      },
+      {
+        "id": 25,
+        "nama": "Regular Jeans",
+        "harga": 399900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE 5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button and straight legs with good room for movement over the thighs and knees.",
+        "category": {
+          "id": 3,
+          "nama": "Celana"
+        }
+      },
+      {
+        "id": 25,
+        "nama": "Regular Jeans",
+        "harga": 399900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE 5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button and straight legs with good room for movement over the thighs and knees.",
+        "category": {
+          "id": 3,
+          "nama": "Celana"
+        }
+      },
+      {
+        "id": 9,
+        "kode": "K-09",
+        "nama": "Kentang Goreng",
+        "harga": 5000,
+        "is_ready": true,
+        "gambar": "kentang-goreng.jpg",
+        "category": {
+          "id": 3,
+          "nama": "Cemilan"
+        }
+      },
+      {
+        "id": 10,
+        "kode": "K-010",
+        "nama": "Cheese Burger",
+        "harga": 15000,
+        "is_ready": true,
+        "gambar": "cheese-burger.jpg",
+        "category": {
+          "id": 3,
+          "nama": "Cemilan"
+        }
+      },
+      {
+        "id": 11,
+        "kode": "K-011",
+        "nama": "Coffe Late",
+        "harga": 15000,
+        "is_ready": true,
+        "gambar": "coffe-late.jpg",
+        "category": {
+          "id": 2,
+          "nama": "Minuman"
+        }
+      },
+      {
+        "id": 12,
+        "kode": "K-012",
+        "nama": "Es Jeruk",
+        "harga": 7000,
+        "is_ready": true,
+        "gambar": "es-jeruk.jpg",
+        "category": {
+          "id": 2,
+          "nama": "Minuman"
+        }
+      },
+      {
+        "id": 13,
+        "kode": "K-013",
+        "nama": "Es Teh",
+        "harga": 5000,
+        "is_ready": true,
+        "gambar": "es-teh.jpg",
+        "category": {
+          "id": 2,
+          "nama": "Minuman"
+        }
+      },
+      {
+        "id": 14,
+        "kode": "K-014",
+        "nama": "Teh Hangat",
+        "harga": 3000,
+        "is_ready": true,
+        "gambar": "teh-hangat.jpg",
+        "category": {
+          "id": 2,
+          "nama": "Minuman"
+        }
+      }
+    ],
+    "keranjangs": [
+      {
+        "jumlah": 1,
+        "total_harga": 10000,
+        "product": {
+          "id": 6,
+          "kode": "K-06",
+          "nama": "Bakso",
+          "harga": 10000,
+          "is_ready": true,
+          "gambar": "bakso.jpg",
+          "category": {
+            "id": 1,
+            "nama": "Makanan"
+          }
+        },
+        "keterangan": "Bakso Kosongan",
+        "id": 1
+      },
+      {
+        "jumlah": 1,
+        "total_harga": 13000,
+        "product": {
+          "id": 5,
+          "kode": "K-05",
+          "nama": "Mie Goreng",
+          "harga": 13000,
+          "is_ready": true,
+          "gambar": "mie-goreng.jpg",
+          "category": {
+            "id": 1,
+            "nama": "Makanan"
+          }
+        },
+        "id": 2
+      }
+    ],
+    "pesanans": [
+      {
+        "total_bayar": 60000,
+        "menus": [
+          {
+            "jumlah": 2,
+            "total_harga": 32000,
+            "product": {
+              "id": 1,
+              "kode": "K-01",
+              "nama": "Sate Ayam",
+              "harga": 16000,
+              "is_ready": true,
+              "gambar": "sate-ayam.jpg",
+              "category": {
+                "id": 1,
+                "nama": "Makanan"
+              }
+            },
+            "keterangan": "Semuanya Pedas",
+            "id": 1
+          },
+          {
+            "jumlah": 2,
+            "total_harga": 28000,
+            "product": {
+              "id": 2,
+              "kode": "K-02",
+              "nama": "Nasi Goreng Telur",
+              "harga": 14000,
+              "is_ready": true,
+              "gambar": "nasi-goreng-telor.jpg",
+              "category": {
+                "id": 1,
+                "nama": "Makanan"
+              }
+            },
+            "id": 3
+          }
+        ],
+        "id": 1
+      }
+    ]
+  }
