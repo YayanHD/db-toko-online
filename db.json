@@ -20,10 +20,13 @@
     "products": [
       {
         "id": 1,
-        "nama": "Relaxed Fit Twill Shirt",
+        "nama": "Relaxed Fit Twill Shirt KHAKI GREEN",
         "harga": 459900,
         "is_ready": true,
-        "gambar": "",
+        "gambar1": "img/1-1.png",
+        "gambar2": "img/1-2.png",
+        "gambar3": "img/1-3.png",
+        "gambar4": "img/1-4.png",
         "Keterangan": "CONSCIOUS CHOICE Shirt in soft, checked cotton twill with a turn-down collar, classic front and yoke at the back. Long sleeves with buttoned cuffs and a sleeve placket with a link button, open chest pockets and a rounded hem. Relaxed Fit – a straight fit with good room for movement creating a comfortable, relaxed silhouette.",
         "category": {
           "id": 1,
@@ -32,10 +35,13 @@
       },
       {
         "id": 2,
-        "nama": "Slim Fit Easy-iron Shirt",
+        "nama": "Slim Fit Easy-iron Shirt BLack",
         "harga": 379900,
         "is_ready": true,
-        "gambar": "",
+        "gambar1": "img/2-1.png",
+        "gambar2": "img/2-2.png",
+        "gambar3": "img/2-3.png",
+        "gambar4": "img/2-4.png",
         "Keterangan": "Shirt in woven fabric with an easy-iron finish. Turn-down collar, classic front and darts and a yoke at the back. Long sleeves with adjustable buttoning at the cuffs and a sleeve placket with a link button. Gently rounded hem. Slim Fit – a fit with narrow shoulders and a tapered waist for a fitted silhouette.",
         "category": {
           "id": 1,
@@ -47,7 +53,10 @@
         "nama": "Twill Overshirt",
         "harga": 599900,
         "is_ready": true,
-        "gambar": "",
+        "gambar1": "img/3-1.png",
+        "gambar2": "img/3-2.png",
+        "gambar3": "img/3-3.png",
+        "gambar4": "img/3-4.png",
         "Keterangan": "Overshirt in twill with a collar, buttons down the front and a yoke at the back. Flap chest pockets with a button, and long sleeves with buttoned cuffs.",
         "category": {
           "id": 1,
@@ -56,10 +65,13 @@
       },
       {
         "id": 4,
-        "nama": "Slim Fit Easy-iron Shirt",
+        "nama": "Slim Fit Easy-iron Shirt WHITE",
         "harga": 379900,
         "is_ready": true,
-        "gambar": "",
+        "gambar1": "img/4-1.png",
+        "gambar2": "img/4-2.png",
+        "gambar3": "img/4-3.png",
+        "gambar4": "img/4-4.png",
         "Keterangan": "Shirt in woven fabric with an easy-iron finish. Turn-down collar, classic front and darts and darts and a yoke at the back. Long sleeves with adjustable buttoning at the cuffs and a sleeve placket with a link button. Gently rounded hem. Slim Fit – a fit with narrow shoulders and a tapered waist for a fitted silhouette.",
         "category": {
           "id": 1,
@@ -68,10 +80,13 @@
       },
       {
         "id": 5,
-        "nama": "Oxford Shirt Muscle Fit",
+        "nama": "Oxford Shirt Muscle Fit White",
         "harga": 429900,
         "is_ready": true,
-        "gambar": "",
+        "gambar1": "img/5-1.png",
+        "gambar2": "img/5-2.png",
+        "gambar3": "img/5-3.png",
+        "gambar4": "img/5-4.png",
         "Keterangan": "Shirt in stretch Oxford cotton with a button-down collar, classic front and a yoke and darts at the back. Long sleeves with adjustable buttoning at the cuffs, and a rounded hem. Muscle Fit – a fit designed to showcase the body’s physique with narrow shoulders and tapered sleeves to create a flattering silhouette.",
         "category": {
           "id": 1,
