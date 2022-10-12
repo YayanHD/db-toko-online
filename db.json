@@ -371,7 +371,10 @@
         "nama": "Regular Jeans",
         "harga": 399900,
         "is_ready": true,
-        "gambar": "",
+        "gambar1": "img/25-1.png",
+        "gambar2": "img/25-2.png",
+        "gambar3": "img/25-3.png",
+        "gambar4": "img/25-4.png",
         "Keterangan": "CONSCIOUS CHOICE 5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button and straight legs with good room for movement over the thighs and knees.",
         "category": {
           "id": 3,
@@ -383,7 +386,10 @@
         "nama": "Hybrid Regular Denim Joggers",
         "harga": 599900,
         "is_ready": true,
-        "gambar": "",
+        "gambar1": "img/26-1.png",
+        "gambar2": "img/26-2.png",
+        "gambar3": "img/26-3.png",
+        "gambar4": "img/26-4.png",
         "Keterangan": "5-pocket joggers in stretch denim made from a cotton blend. Regular waist with elastication at the back, a concealed drawstring and a zip fly with a button. Straight legs with good room for movement over the thighs and knees. Made using Lycra® Hybrid Technology for exceptional softness and comfort without compromising the authentic denim look.",
         "category": {
           "id": 3,
@@ -395,7 +401,10 @@
         "nama": "Running Shorts",
         "harga": 459900,
         "is_ready": true,
-        "gambar": "",
+        "gambar1": "img/27-1.png",
+        "gambar2": "img/27-2.png",
+        "gambar3": "img/27-3.png",
+        "gambar4": "img/27-4.png",
         "Keterangan": "Shorts in fast-drying functional fabric designed to help keep you dry and cool while running. Elastication and a concealed drawstring at the waist, zipped side pockets and ventilating mesh at the crotch for increased ventilation. Legs with reflective details for increased visibility outdoors and a slit in one side of the hems. Soft mesh inner shorts.",
         "category": {
           "id": 3,
@@ -407,7 +416,10 @@
         "nama": "Slim Fit Sports Joggers",
         "harga": 599900,
         "is_ready": true,
-        "gambar": "",
+        "gambar1": "img/28-1.png",
+        "gambar2": "img/28-2.png",
+        "gambar3": "img/28-3.png",
+        "gambar4": "img/28-4.png",
         "Keterangan": "CONSCIOUS CHOICE Jersey joggers for indoor and outdoor workouts. Covered elastication and a drawstring at the waist, zipped side pockets for safe storage of valuables and a mesh panel at the crotch for increased air permeability. Cuffed hems.",
         "category": {
           "id": 3,
@@ -419,7 +431,10 @@
         "nama": "Relaxed Fit Zip-through Hoodie",
         "harga": 459900,
         "is_ready": true,
-        "gambar": "",
+        "gambar1": "img/29-1.png",
+        "gambar2": "img/29-2.png",
+        "gambar3": "img/29-3.png",
+        "gambar4": "img/29-4.png",
         "Keterangan": "Zip-through hoodie in sweatshirt fabric. Relaxed fit with a jersey-lined, drawstring hood, a zip down the front, diagonal, welt side pockets and ribbing at the cuffs and hem. Soft brushed inside.",
         "category": {
           "id": 4,
@@ -431,7 +446,8 @@
         "nama": "Relaxed Fit Hoodie",
         "harga": 429900,
         "is_ready": true,
-        "gambar": "",
+        "gambar1": "img/30-1.png",
+        "gambar2": "img/30-2.png",
         "Keterangan": "ESSENTIALS Hoodie in sweatshirt fabric made from a cotton blend. Relaxed fit with a jersey-lined, drawstring hood, a kangaroo pocket, long sleeves and wide ribbing at the cuffs and hem. Soft brushed inside.",
         "category": {
           "id": 4,
@@ -443,37 +459,16 @@
         "nama": "Relaxed Fit Hoodie STRANGER THINGS",
         "harga": 699900,
         "is_ready": true,
-        "gambar": "",
+        "gambar1": "img/31-1.png",
+        "gambar2": "img/31-2.png",
+        "gambar3": "img/31-3.png",
+        "gambar4": "img/31-4.png",
         "Keterangan": "Hoodie in sweatshirt fabric made from a cotton blend. Relaxed fit with a lined hood, kangaroo pocket, dropped shoulders, long sleeves and ribbing at the cuffs and hem. Soft brushed inside.",
         "category": {
           "id": 4,
           "nama": "Hoodie"
         }
       },
-        {
-        "id": 32,
-        "nama": "Slim Fit Sports Joggers",
-        "harga": 599900,
-        "is_ready": true,
-        "gambar": "",
-        "Keterangan": "CONSCIOUS CHOICE Jersey joggers for indoor and outdoor workouts. Covered elastication and a drawstring at the waist, zipped side pockets for safe storage of valuables and a mesh panel at the crotch for increased air permeability. Cuffed hems.",
-        "category": {
-          "id": 3,
-          "nama": "Celana"
-        }
-      },
-        {
-        "id": 33,
-        "nama": "Relaxed Fit Motif-detail Hoodie KEITH HARING",
-        "harga": 549900,
-        "is_ready": true,
-        "gambar": "",
-        "Keterangan": "SMILEY® X H&M Hoodie in sweatshirt fabric with a motif front and back and a soft brushed inside. Relaxed fit with a lined, wrapover hood, kangaroo pocket, dropped shoulders, long sleeves and ribbing at the cuffs and hem.",
-        "category": {
-          "id": 3,
-          "nama": "Celana"
-        }
-      }
     ],
     "keranjangs": [
       
