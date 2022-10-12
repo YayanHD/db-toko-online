@@ -11,6 +11,10 @@
       {
         "id": 3,
         "nama": "Celana"
+      },
+        {
+        "id": 4,
+        "nama": "Hoodie"
       }
     ],
     "products": [
@@ -327,192 +331,94 @@
         }
       },
       {
-        "id": 25,
-        "nama": "Regular Jeans",
-        "harga": 399900,
+        "id": 27,
+        "nama": "Running Shorts",
+        "harga": 459900,
         "is_ready": true,
         "gambar": "",
-        "Keterangan": "CONSCIOUS CHOICE 5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button and straight legs with good room for movement over the thighs and knees.",
+        "Keterangan": "Shorts in fast-drying functional fabric designed to help keep you dry and cool while running. Elastication and a concealed drawstring at the waist, zipped side pockets and ventilating mesh at the crotch for increased ventilation. Legs with reflective details for increased visibility outdoors and a slit in one side of the hems. Soft mesh inner shorts.",
         "category": {
           "id": 3,
           "nama": "Celana"
         }
       },
       {
-        "id": 25,
-        "nama": "Regular Jeans",
-        "harga": 399900,
+        "id": 28,
+        "nama": "Slim Fit Sports Joggers",
+        "harga": 599900,
         "is_ready": true,
         "gambar": "",
-        "Keterangan": "CONSCIOUS CHOICE 5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button and straight legs with good room for movement over the thighs and knees.",
+        "Keterangan": "CONSCIOUS CHOICE Jersey joggers for indoor and outdoor workouts. Covered elastication and a drawstring at the waist, zipped side pockets for safe storage of valuables and a mesh panel at the crotch for increased air permeability. Cuffed hems.",
         "category": {
           "id": 3,
           "nama": "Celana"
         }
       },
-      {
-        "id": 25,
-        "nama": "Regular Jeans",
-        "harga": 399900,
+       {
+        "id": 29,
+        "nama": "Relaxed Fit Zip-through Hoodie",
+        "harga": 459900,
         "is_ready": true,
         "gambar": "",
-        "Keterangan": "CONSCIOUS CHOICE 5-pocket jeans in stretch cotton denim with a regular waist, zip fly and button and straight legs with good room for movement over the thighs and knees.",
+        "Keterangan": "Zip-through hoodie in sweatshirt fabric. Relaxed fit with a jersey-lined, drawstring hood, a zip down the front, diagonal, welt side pockets and ribbing at the cuffs and hem. Soft brushed inside.",
+        "category": {
+          "id": 4,
+          "nama": "Hoodie"
+        }
+      },
+        {
+        "id": 30,
+        "nama": "Relaxed Fit Hoodie",
+        "harga": 429900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "ESSENTIALS Hoodie in sweatshirt fabric made from a cotton blend. Relaxed fit with a jersey-lined, drawstring hood, a kangaroo pocket, long sleeves and wide ribbing at the cuffs and hem. Soft brushed inside.",
+        "category": {
+          "id": 4,
+          "nama": "Hoodie"
+        }
+      },
+        {
+        "id": 31,
+        "nama": "Relaxed Fit Hoodie STRANGER THINGS",
+        "harga": 699900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "Hoodie in sweatshirt fabric made from a cotton blend. Relaxed fit with a lined hood, kangaroo pocket, dropped shoulders, long sleeves and ribbing at the cuffs and hem. Soft brushed inside.",
+        "category": {
+          "id": 4,
+          "nama": "Hoodie"
+        }
+      },
+        {
+        "id": 32,
+        "nama": "Slim Fit Sports Joggers",
+        "harga": 599900,
+        "is_ready": true,
+        "gambar": "",
+        "Keterangan": "CONSCIOUS CHOICE Jersey joggers for indoor and outdoor workouts. Covered elastication and a drawstring at the waist, zipped side pockets for safe storage of valuables and a mesh panel at the crotch for increased air permeability. Cuffed hems.",
         "category": {
           "id": 3,
           "nama": "Celana"
         }
       },
-      {
-        "id": 9,
-        "kode": "K-09",
-        "nama": "Kentang Goreng",
-        "harga": 5000,
+        {
+        "id": 33,
+        "nama": "Relaxed Fit Motif-detail Hoodie KEITH HARING",
+        "harga": 549900,
         "is_ready": true,
-        "gambar": "kentang-goreng.jpg",
+        "gambar": "",
+        "Keterangan": "SMILEY® X H&M Hoodie in sweatshirt fabric with a motif front and back and a soft brushed inside. Relaxed fit with a lined, wrapover hood, kangaroo pocket, dropped shoulders, long sleeves and ribbing at the cuffs and hem.",
         "category": {
           "id": 3,
-          "nama": "Cemilan"
-        }
-      },
-      {
-        "id": 10,
-        "kode": "K-010",
-        "nama": "Cheese Burger",
-        "harga": 15000,
-        "is_ready": true,
-        "gambar": "cheese-burger.jpg",
-        "category": {
-          "id": 3,
-          "nama": "Cemilan"
-        }
-      },
-      {
-        "id": 11,
-        "kode": "K-011",
-        "nama": "Coffe Late",
-        "harga": 15000,
-        "is_ready": true,
-        "gambar": "coffe-late.jpg",
-        "category": {
-          "id": 2,
-          "nama": "Minuman"
-        }
-      },
-      {
-        "id": 12,
-        "kode": "K-012",
-        "nama": "Es Jeruk",
-        "harga": 7000,
-        "is_ready": true,
-        "gambar": "es-jeruk.jpg",
-        "category": {
-          "id": 2,
-          "nama": "Minuman"
-        }
-      },
-      {
-        "id": 13,
-        "kode": "K-013",
-        "nama": "Es Teh",
-        "harga": 5000,
-        "is_ready": true,
-        "gambar": "es-teh.jpg",
-        "category": {
-          "id": 2,
-          "nama": "Minuman"
-        }
-      },
-      {
-        "id": 14,
-        "kode": "K-014",
-        "nama": "Teh Hangat",
-        "harga": 3000,
-        "is_ready": true,
-        "gambar": "teh-hangat.jpg",
-        "category": {
-          "id": 2,
-          "nama": "Minuman"
+          "nama": "Celana"
         }
       }
     ],
     "keranjangs": [
-      {
-        "jumlah": 1,
-        "total_harga": 10000,
-        "product": {
-          "id": 6,
-          "kode": "K-06",
-          "nama": "Bakso",
-          "harga": 10000,
-          "is_ready": true,
-          "gambar": "bakso.jpg",
-          "category": {
-            "id": 1,
-            "nama": "Makanan"
-          }
-        },
-        "keterangan": "Bakso Kosongan",
-        "id": 1
-      },
-      {
-        "jumlah": 1,
-        "total_harga": 13000,
-        "product": {
-          "id": 5,
-          "kode": "K-05",
-          "nama": "Mie Goreng",
-          "harga": 13000,
-          "is_ready": true,
-          "gambar": "mie-goreng.jpg",
-          "category": {
-            "id": 1,
-            "nama": "Makanan"
-          }
-        },
-        "id": 2
-      }
+      
     ],
     "pesanans": [
-      {
-        "total_bayar": 60000,
-        "menus": [
-          {
-            "jumlah": 2,
-            "total_harga": 32000,
-            "product": {
-              "id": 1,
-              "kode": "K-01",
-              "nama": "Sate Ayam",
-              "harga": 16000,
-              "is_ready": true,
-              "gambar": "sate-ayam.jpg",
-              "category": {
-                "id": 1,
-                "nama": "Makanan"
-              }
-            },
-            "keterangan": "Semuanya Pedas",
-            "id": 1
-          },
-          {
-            "jumlah": 2,
-            "total_harga": 28000,
-            "product": {
-              "id": 2,
-              "kode": "K-02",
-              "nama": "Nasi Goreng Telur",
-              "harga": 14000,
-              "is_ready": true,
-              "gambar": "nasi-goreng-telor.jpg",
-              "category": {
-                "id": 1,
-                "nama": "Makanan"
-              }
-            },
-            "id": 3
-          }
+      
         ],
-        "id": 1
-      }
-    ]
   }
